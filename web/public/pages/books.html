@@ -1,0 +1,51 @@
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 border my-3 py-3">
+        <div class-"col-12">
+          <h3>Add a new Book</h3>
+        </div>
+        <form>
+          <div class="form-row">
+            <div class="form-group col-md-6">
+              <label for="inputTitle">Title</label>
+              <input type="text" class="form-control" id="inputTitle" placeholder="Title">
+            </div>
+            <div class="form-group col-md-6">
+              <label for="inputAuthor">Author</label>
+              <input type="text" class="form-control" id="inputAuthor" placeholder="Author">
+            </div>
+          </div>
+
+          <div class="form-row">
+            <div class="form-group col-md-6">
+              <label for="inputNumberOfPages">Number Of Pages</label>
+              <input type="text" class="form-control" id="inputNumberOfPages" placeholder="Number of Pages">
+            </div>
+            <div class="form-group col-md-6">
+              <label for="inputPublisher">Publisher</label>
+              <input type="text" class="form-control" id="inputPublisher" placeholder="Publisher">
+            </div>
+          </div>
+        
+          <button type="submit" class="btn btn-primary"  onclick="App.Save_Book(); return false;">Submit</button>
+        </form>
+      </div>
+      
+    </div>
+    <div class="row">
+      <div class="col-lg-12 border my-3 py-3">
+        <div class-"col-12">
+            <h3>View All Books</h3>
+        </div>
+        <div id="tableContainer">
+          
+                  
+              
+        </div>
+      </div>
+    </div>
+
+    <div id="BookDetailCont" class="row">
+    
+    </div>
+  </div>

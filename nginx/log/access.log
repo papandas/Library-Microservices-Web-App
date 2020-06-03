@@ -1,0 +1,6 @@
+192.168.224.1 - - [03/Jun/2020:14:58:14 +0000] "GET /js/main.js HTTP/1.1" 304 0 "http://localhost:8080/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" "-"
+192.168.224.1 - - [03/Jun/2020:14:58:14 +0000] "GET /style/bootstrap.min.js.map HTTP/1.1" 404 165 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" "-"
+192.168.224.1 - - [03/Jun/2020:14:58:14 +0000] "GET /css/bootstrap.min.css.map HTTP/1.1" 404 164 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" "-"
+192.168.224.1 - - [03/Jun/2020:14:58:14 +0000] "GET /style/bootstrap.bundle.min.js.map HTTP/1.1" 404 172 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" "-"
+192.168.224.1 - - [03/Jun/2020:14:58:16 +0000] "GET /pages/books.html HTTP/1.1" 304 0 "http://localhost:8080/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" "-"
+192.168.224.1 - - [03/Jun/2020:14:58:27 +0000] "GET /pages/orders.html HTTP/1.1" 304 0 "http://localhost:8080/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" "-"
